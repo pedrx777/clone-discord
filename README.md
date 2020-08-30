@@ -1,3 +1,8 @@
+[Live demo](https://clone-discord-pedrx.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a21fe0a1-b2b6-4b6d-a8c9-a92449424f0c/deploy-status)](https://app.netlify.com/sites/clone-discord-pedrx/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
